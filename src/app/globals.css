@@ -216,7 +216,7 @@ a {
   filter: drop-shadow();
   /* animation: zoom 2s infinite ease-in-out; */
 }
-#thumoi-img-kinhmoi{
+#thumoi-img-kinhmoi, #thumoi-img-kinhmoi-free{
   width: 50%;
 }
 #thumoi-img-thamgia{
@@ -290,7 +290,9 @@ a {
 #thumoi-hoten-container {
   transform: translate(0%, 210%);
 }
-
+#thumoi-hoten-container-free {
+  transform: translate(0%, 400%);
+}
 #thumoi-footer-container {
   position: absolute;
   bottom: 0;
